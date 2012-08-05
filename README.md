@@ -1,12 +1,13 @@
 ScreenBox SERVER
 ================
 
-OpenSource project ScreenBox Server.
+Open source automated advertising network server.
 
 
-More info comming soon.
+More information about project comming soon..
 
 
 Project site: http://www.screenbox.org
 
-Powered by Treecom s.r.o., Slovakia, http://www.treecom.net
+
+Copyright (c) 2012, Treecom s.r.o. http://www.treecom.net
